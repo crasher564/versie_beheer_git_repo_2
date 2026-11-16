@@ -1,5 +1,5 @@
 gojo - power: 9000
 
-sukuna - power: 8500
+sukuna - power: 9000
 
 mahoraga - power: 7000
